@@ -11,8 +11,27 @@ body {
     box-sizing: border-box;
 }
 .nav-button {
-    color: white;
+    font-size: 30px;
 }
 .week1 {
 
+}
+
+.week-button {
+    background-color: grey;
+    height: 100px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    margin: 20px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
 }
