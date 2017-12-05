@@ -14,10 +14,6 @@ body {
     font-size: 30px;
     
 }
-.week1 {
-
-}
-
 .week-button {
     background-color: grey;
     height: 100px;
@@ -28,12 +24,10 @@ body {
     margin: 20px 10px;
     line-height: 100px;
 }
-
 a{
     text-decoration: none;
     color: white;
 }
-
 a:hover {
     color: black;
 }
